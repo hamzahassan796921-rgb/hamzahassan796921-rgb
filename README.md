@@ -36,6 +36,7 @@ The platform aims to intelligently match clients with suitable freelancers based
 - Data Science
 - Software Engineering
 - Computer Networking
+- Software Development
 
 ## Contact
 
